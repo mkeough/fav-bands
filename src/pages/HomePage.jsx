@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <>
       <h1>Here Are My Three Favorite Bands</h1>
-      <ul>
+      <ul className="bands">
         <li>
           <Link to="/kingsofleon">Kings Of Leon</Link>
           <p>
